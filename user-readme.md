@@ -5,7 +5,7 @@ This guide is for server owners and players who want to use the minimap.
 ## Requirements
 
 - Java Edition client
-- Paper server 1.21.10+
+- Paper server 1.21.11+
 - The VanillaMinimaps resource pack (required)
 
 ## Getting Started (Server Owners)
