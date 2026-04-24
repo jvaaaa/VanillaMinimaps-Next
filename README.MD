@@ -2,6 +2,11 @@
 
 -----
 
+> **Fork notice:** This repository is a fork of [JNNGL/VanillaMinimaps](https://github.com/JNNGL/VanillaMinimaps),
+> maintained by [@jvaaaa](https://github.com/jvaaaa). Modifications since 2026 include updating
+> compatibility to Minecraft 1.21.8 / 1.21.10 / 1.21.11, fullscreen bug fixes, and permission API
+> updates. All modifications are licensed under the original GPL v3 (see `LICENSE`).
+
 A minimap plugin, without any clientside mods.
 
 https://github.com/JNNGL/VanillaMinimaps/assets/45935949/4a6f9cf4-0575-4a46-852e-da11a18edc56
